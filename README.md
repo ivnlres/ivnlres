@@ -1,2 +1,2 @@
-## Hello world!
+## Hello world! 👋
 I just started learning.
